@@ -1,6 +1,8 @@
 ---
 layout: default
 title: WatchMe サポート
+alt: /watchme/en/
+altlabel: English
 ---
 
 <img src="/watchme/icon.png" alt="WatchMe のアイコン" width="96" height="96" style="border-radius:20px">
