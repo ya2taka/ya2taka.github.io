@@ -28,6 +28,9 @@ In the Settings app, go to Privacy & Security > Tracking. You can use every feat
 **I want to delete my records**
 You can delete diary entries from the diary screen in the app. Deleting the app deletes all records stored on your device.
 
+**Will my records move to a new iPhone?**
+Your diary, habits, tags, and other records are stored only on your iPhone and are included in your iPhone backup. They move to a new iPhone when you set it up with Quick Start, an iCloud backup, or a Mac or PC backup. They are lost if you set up the iPhone as new or delete the app. API keys for AI Connection and the Mac link are not transferred, so set them up again on the new iPhone. Health data moves through Health's own iCloud sync.
+
 **Can the numbers be used for diagnosis?**
 No. WatchMe is not a medical device. The numbers are estimates to help you understand your own trends. If you are worried about your health, talk to a medical professional.
 
