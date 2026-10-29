@@ -9,5 +9,5 @@ title: ya2taka
 
 <a class="app" href="/watchme/">
   <img src="/watchme/icon.png" alt="">
-  <span><strong>WatchMe</strong><br>体力残量と声の日記</span>
+  <span><strong>WatchMe</strong><br>体力残量とボイス・ダイアリー</span>
 </a>

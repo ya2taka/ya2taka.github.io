@@ -19,8 +19,8 @@ An energy level estimate that recovers with sleep and drops with activity, on iP
 **No data is showing**
 In the Settings app, go to Health > Data Access & Devices > WatchMe and check that reading is allowed. After you wear your Apple Watch for a few days, the estimates become more stable.
 
-**Voice diary isn't available**
-The voice diary requires a device that supports Apple Intelligence and iOS 26 or later.
+**Voice or AI isn't available in the Voice Diary**
+The Voice Diary works on every device. Answering by voice requires iOS 26 or later; on earlier versions, you answer by typing. For AI to write the listener's questions and your diary entry, you need a device that supports Apple Intelligence or AI Connection in Settings. Without either, the app asks fixed questions and uses your answers as the diary entry. Talk also requires Apple Intelligence or AI Connection.
 
 **I want to change ad tracking permission**
 In the Settings app, go to Privacy & Security > Tracking. You can use every feature without allowing tracking.
