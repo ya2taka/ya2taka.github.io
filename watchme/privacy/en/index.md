@@ -8,7 +8,7 @@ altlabel: 日本語
 
 # WatchMe Privacy Policy
 
-Last updated: October 24, 2026
+Last updated: October 29, 2026
 
 WatchMe ("the app") is designed so that your health data, diary, and conversations stay on your own devices.
 
@@ -61,6 +61,7 @@ The app shows ads using Google AdMob, a service of Google LLC.
 
 - For advertising, Google may collect device identifiers, your IP address, and information about ad views and taps. See Google's policy at https://policies.google.com/technologies/partner-sites.
 - You'll be asked whether to allow tracking the first time an ad is shown. If you don't allow it, you'll see non-personalized ads.
+- In regions where the law requires consent, such as the UK and Switzerland, Google's consent form (User Messaging Platform) asks before any ad is shown whether you agree to the use of data for ads. If you don't agree, ads that use data in a limited way are shown. No ads are shown until you answer. You can change your answer anytime in Settings > Ad Privacy Settings.
 - Health data, your diary, talks, personality answers, GHOST.md, and check-ins are never included in ad requests or used for ad targeting.
 
 ## 6. Sharing
